@@ -1,2 +1,0 @@
-# voovilo
-komentar disqus
