@@ -1,4 +1,4 @@
-var disqus_shortname="miseluler";
+var disqus_shortname="pekanan";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
